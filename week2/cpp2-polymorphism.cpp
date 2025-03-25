@@ -1,3 +1,4 @@
+//Contoh dari Runtime Polymorphism
 #include <iostream>
 using namespace std;
 
