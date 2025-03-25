@@ -1,4 +1,15 @@
 //Overloading secara umum terdapat 2 jenis yakni overloading fungsi dan overloading operator 
+/*
+Contoh dari overloading fungsi 
+int add(int a, int b) {
+    return a + b;
+}
+
+int add(int a, int b, int c) {
+    return a + b + c;
+}
+
+*/
 #include <iostream>
 #include <string>
 #include <typeinfo>
